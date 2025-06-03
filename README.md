@@ -20,7 +20,7 @@
 
 ## 📸 Capturas de pantalla
 
-*(Agrega aquí capturas de pantalla del splash, la pantalla de juego y el mensaje final)*
+![image](https://github.com/user-attachments/assets/0a66a297-00dc-4fe5-a515-f8f46fc9acd6)
 
 ---
 
